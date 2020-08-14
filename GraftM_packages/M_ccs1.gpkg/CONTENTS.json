@@ -1,0 +1,1 @@
+{"unaligned_sequence_database": "M_ccs1.bmge.fas", "align_hmm": "graftmdTG53z_align.hmm", "range": 481.5, "refpkg": "M_ccs1.gpkg.refpkg", "trusted_cutoff": false, "diamond_database": "M_ccs1.dmnd", "graftm_package_version": 3, "search_hmms": ["graftmlu_yoM_search.hmm"]}

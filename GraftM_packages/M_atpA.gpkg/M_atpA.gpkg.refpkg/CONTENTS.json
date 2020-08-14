@@ -1,0 +1,53 @@
+{
+    "files": {
+        "phylo_model": "phylo_modelwzIohR.json", 
+        "taxonomy": "M_atpA_taxonomy.csv", 
+        "tree": "treewo6MAj.tre", 
+        "aln_fasta": "M_atpA_deduplicated_aligned.fasta", 
+        "seq_info": "M_atpA_seqinfo.csv", 
+        "tree_stats": "M_atpA.tre.log"
+    }, 
+    "rollback": {
+        "files": {
+            "phylo_model": "phylo_modelwzIohR.json", 
+            "taxonomy": "M_atpA_taxonomy.csv", 
+            "tree": "M_atpA.tre", 
+            "aln_fasta": "M_atpA_deduplicated_aligned.fasta", 
+            "seq_info": "M_atpA_seqinfo.csv", 
+            "tree_stats": "M_atpA.tre.log"
+        }, 
+        "rollback": null, 
+        "metadata": {
+            "create_date": "2020-03-30 12:55:27", 
+            "format_version": "1.1", 
+            "locus": "/tmp/tmpZvgFUX/M_atpA"
+        }, 
+        "md5": {
+            "phylo_model": "56ac832b98ec3b9f17e5a8cea30164b3", 
+            "taxonomy": "29139c6e13e580a4a2c3660cae163c7d", 
+            "tree": "7819057ff1d3a2933a2f09320e08630d", 
+            "aln_fasta": "6e3118b4b50de364472abb86fea015ea", 
+            "seq_info": "98b01fc3b1faf7267130e8040025345b", 
+            "tree_stats": "5f7061a5caa926b771665518edf30fc5"
+        }
+    }, 
+    "log": [
+        "Rerooted", 
+        "Stripped refpkg (removed 0 files)", 
+        "Loaded initial files into empty refpkg"
+    ], 
+    "metadata": {
+        "create_date": "2020-03-30 12:55:27", 
+        "format_version": "1.1", 
+        "locus": "/tmp/tmpZvgFUX/M_atpA"
+    }, 
+    "rollforward": null, 
+    "md5": {
+        "phylo_model": "56ac832b98ec3b9f17e5a8cea30164b3", 
+        "taxonomy": "29139c6e13e580a4a2c3660cae163c7d", 
+        "tree": "ceecc45441fd886f5437182aa66a8f91", 
+        "aln_fasta": "6e3118b4b50de364472abb86fea015ea", 
+        "seq_info": "98b01fc3b1faf7267130e8040025345b", 
+        "tree_stats": "5f7061a5caa926b771665518edf30fc5"
+    }
+}
