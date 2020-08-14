@@ -1,0 +1,1 @@
+{"unaligned_sequence_database": "M_psbB.bmge.fas", "align_hmm": "graftmKP07wj_align.hmm", "range": 750.0, "refpkg": "M_psbB.gpkg.refpkg", "trusted_cutoff": false, "diamond_database": "M_psbB.dmnd", "graftm_package_version": 3, "search_hmms": ["graftmrALOeu_search.hmm"]}
